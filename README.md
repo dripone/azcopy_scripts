@@ -1,10 +1,10 @@
 ## AzCopy scripts for the daily upload automatization
 
-### What will be needed?
+### 1. What will be needed?
 >- [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest&pivots=winget)
 >- [AzCopy](https://github.com/Azure/azure-storage-azcopy/releases/)
 
-### How to setup the directories?
+### 2. How to setup the directories?
 > Step 1: Create a directory on C:\ with the name _azcopy_ and put the _azcopy.exe_ inside.
 >
 > Step 2: Inside this directory, create an other one with the name _scripts_ and put the scripts into it.
