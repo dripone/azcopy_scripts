@@ -1,1 +1,1 @@
-# AzCopy scripts for the automatization of the uploads
+### AzCopy scripts for the automatization of the uploads
