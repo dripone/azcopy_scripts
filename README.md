@@ -5,4 +5,4 @@
 >- AzCopy
 
 ### 2. How to setup the directories?
-> Create a directory on _C:\_ with the name _azcopy_ and put the _azcopy.exe_ inside.
+> Create a directory on C:\ with the name _azcopy_ and put the _azcopy.exe_ inside.
