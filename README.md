@@ -11,4 +11,4 @@
 
 > Create a new directory with the name _exports_ and this will be your main directory for the .csv datas you will upload to your Azure Blob Storage.
 
-/images/img1.png
+!(/images/img1.png)
