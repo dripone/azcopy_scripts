@@ -1,4 +1,6 @@
 ## AzCopy scripts for the daily upload automatization
 
-### What will be needed?
-**- Azure CLI**
+### 1. What will be needed?
+>- Azure CLI
+>- AzCopy
+>
